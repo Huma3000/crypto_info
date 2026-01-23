@@ -31,12 +31,12 @@
 ## 中心化大所
   - 欧易、币安、芝麻这三个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些币，可以撸一波羊毛。提醒：假如不填推荐码，一旦注册完成就**不再**会有永久减免（也就是返佣，部分手续费会自动返回账号）的机会。
 
-2. **[芝麻开门](https://www.gatenode.xyz/share/TSSQ)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VGDHBFEKBQ?ref_type=103)
+1. **[芝麻开门](https://www.gatenode.xyz/share/TSSQ)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VGDHBFEKBQ?ref_type=103)
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**TSSQ** 可以**永久减免部分手续费**。
 
-3. **[币安（需翻墙）](https://accounts.bmwweb.link/register?ref=TAISHAN)**（Binance）[备用链接（免翻墙）](https://www.bmwweb.link/activity/referral-entry/CPA?ref=CPA_00FJO12FOD)
+2. **[币安（需翻墙）](https://accounts.bmwweb.link/register?ref=TAISHAN)**（Binance）[备用链接（免翻墙）](https://www.bmwweb.link/activity/referral-entry/CPA?ref=CPA_00FJO12FOD)
     全球交易量第一。使用此邀请码：**543704135** 可以永久减免部分手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
-1. **[欧易（免翻墙）](https://www.mkwebmpengrus.com/join/4109395)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/4109395)
+3. **[欧易（免翻墙）](https://www.mkwebmpengrus.com/join/4109395)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/4109395)
     国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**4109395** 可以**永久减免部分手续费**。**6个月未登录过的账户**，通过链接登录也可以获取返佣。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。国内用户首选欧易。
     <p align="center">
     <img src="imgs/fanyong.jpg" alt="返佣" width="310" >
@@ -48,6 +48,12 @@
    - 集成 DApp 探索器：可直接在钱包内访问 DeFi、NFT、游戏等应用。
    - 与欧易交易所互通：方便用户在交易所与链上间无缝转移资产。
     这里有一个很详细的教程：[欧易web3钱包使用教程](docs/欧易web3钱包使用教程.pdf) -->
+    4. **[HTX火币](https://www.htx.com.gt/invite/zh-cn/1f?invite_code=wsph7223)（HTX）**2013年成立的老牌头部CEX，全球用户超5500万，2025年交易量约3.3万亿美元。现货700+币深度好、合约杠杆强、赚币理财丰富、华语友好、安全记录优秀。
+    
+
+
+
+
   
 ## VPN
 1. **[泡芙云](https://www.paofu.cloud/auth/register?code=gd4B)** 需付费，个人用买最低配置就可以了，大概12rmb一年。支持多平台，网络稳定，看Youtube高清视频无压力。
