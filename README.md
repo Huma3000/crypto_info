@@ -48,16 +48,14 @@
    - 集成 DApp 探索器：可直接在钱包内访问 DeFi、NFT、游戏等应用。
    - 与欧易交易所互通：方便用户在交易所与链上间无缝转移资产。
     这里有一个很详细的教程：[欧易web3钱包使用教程](docs/欧易web3钱包使用教程.pdf) -->
-1. **[HTX（火币）](https://www.htx.com.gt/invite/zh-cn/1f?invite_code=wsph7223)
+4. [HTX（火币）](https://www.htx.com.gt/invite/zh-cn/1f?invite_code=wsph7223)
     2013年成立的老牌头部CEX，全球用户超5500万，2025年交易量约3.3万亿美元。  现货700+币深度好、合约杠杆强、赚币理财丰富、华语友好、安全记录优秀。
-
-
-
-   
-    
-
-
-
+5. [Bybit](https://www.bybit.com/invite?ref=9BQADRK)
+    2018年成立的全球头部CEX，以衍生品（合约）为核心，合约深度极强、手续费低、流动性顶级、衍生品工具丰富、非美用户友好、增长迅猛。
+6. [Bitget](https://www.hdmune.cn/zh-CN/referral/register?clacCode=144M27LY&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)
+ 2018年成立的全球头部CEX，以“Universal Exchange (UEX)”定位快速崛起，2026年已成为世界顶级交易所之一。抄单/社交交易全球领先、现货1500+币最多、低手续费、UEX多资产（加密+股票+黄金+商品）、保护基金超7亿美元、安全透明。
+4. [WEEX](https://weataxx.site/register?vipCode=002nl)
+    2018年成立的快速崛起的全球CEX，合约杠杆高达400x、现货1700+币多、低费/零费活动、跟单抄单强、1000 BTC保护基金、安全合规（多国MSB牌照）。
 
   
 ## VPN
